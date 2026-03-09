@@ -12,7 +12,7 @@ export function Slide1Cover() {
           <div className="w-full lg:w-1/2 flex justify-center">
             {/* A4 Vertical Poster Container with 3D Effect */}
             <a
-              href="https://emu-donut-81192104.figma.site/"
+              href="https://palgong-poster.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="relative group cursor-pointer"
